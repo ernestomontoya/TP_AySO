@@ -1,0 +1,187 @@
+ls
+whoami
+pwd
+man man
+ls
+cd repogit
+ls
+ls -la
+cd ..
+ls
+cat README
+git clone https://github.com/ernestomontoya/montoya_vagrant.git
+ls
+cd montoya_vagrant/
+ls
+history
+history > hiltorial.txt
+ls
+cat hiltorial.txt 
+git status
+git add .
+git status
+git commit -m "MI PRIMER COMMIT"
+git config --global user.name "ernestomontoya"
+git commit -m "MI PRIMER COMMIT"
+git push
+cd ..
+exit
+ls
+ls -la
+ssh-keygen -t ed25519
+ls
+ls -la
+cd .ssh
+ls
+cat id_ed25519.pub
+cd ..
+ls
+cd repogit
+ls
+git clone git@github.com:ernestomontoya/montoya_vagrant.git
+ls
+cd montoya_vagrant/
+ls
+history
+history > historial.txt
+ls
+git status
+git add .
+git status
+git commit -m "MI PRIMER COMMIT"
+git push
+exit
+vagrant halt
+cd
+ls
+cd repogit
+ls
+cd TP_AySO/
+pwd
+ls
+ls -l
+man man
+rm datos_usuario.tex
+ls
+vagrant destroy
+clean
+clear
+ls
+vagrant destroy
+ls
+sudo rm rm
+ls
+sudo rm datos_usuario.txt
+ls
+cat /etc/os-release
+cat /etc/os-release | grep -i HOME_URL
+echo "usuario=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt
+ls
+git add .
+git config --global user.email "joseernestomontoya518@gmail.com"
+git config --global user.name "ernestomontoya"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+cat /proc/cpuinfo
+cat /proc/cpuinfo | grep -i "model name"
+cat /proc/cpuinfo | grep -in "model name"
+grep head /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+cat datos_usuario.txt
+cat head /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+cat tail /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+tail /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+cat datos_usuario.txt
+sudo rm model name
+sudo rm "model name"
+cd ..
+cd TP_AySO/
+LS
+ls
+cat datos_usuario.txt
+ls
+cd repogit
+ls
+cd TP_AySO/
+echo "Usuario=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git config --global user.email "joseernestomontoya518@gmail.com"
+git config --global user.name "ernestomontoya"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+cat /proc/cpuinfo | grep -i "model name" | head -n1
+cat /proc/cpuinfo | grep -i "model name" | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git config --global user.email "joseernestomontoya518@gmail.com"
+git config --global user.name "ernestomontoya"
+git commit -m "feat: Añadiendo informacion de CPU"
+git status
+grep -v nologin /etc/passwd > lista_ordenada
+ls
+cat lista_ordenada
+sort lista_ordenada -t":" -k7
+cat lista_ordenada
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada
+cat lista_ordenada
+ls
+git add .
+git config --global user.email "joseernestomontoya518@gmail.com"
+git config --global user.name "ernestomontoya"
+git commit -m "ADD: Listado de usuarios ordenada"
+apros "dumptraffic"
+apropos "dumptraffic"
+apropos "dump traffic"
+apropos -a dump traffic
+apropos dump
+apropos dump traffic
+ls
+man man
+man apropos
+apropos -e "dump traffic"
+apropos -w "dump traffic"
+man dump
+man "dump traffic"
+man tcpdump
+apropos "dump traffic on a network"
+apropos "a network"
+apropos network
+man tcpdump
+apropos "tcpdump - dump traffic on a network"
+apropos tcpdump
+apropos tcpdump > comando_dump_net
+echo apropos tcpdump >> comando_dump_net
+cat comando_dump_net
+ls
+
+git config --global user.email "joseernestomontoya518@gmail.com"
+git config --global user.name "ernestomontoya"
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+git status
+cat << FIN >> README.md
+Alumno: Jose Ernesto Montoya
+División: N°113
+Turno: Mañana
+FIN
+
+CAT README.md
+cat README.md
+git add .
+git config --global user.email "joseernestomontoya518@gmail.com"
+git config --global user.name "ernestomontoya"
+git commit -m "DOCS: Agregado los datos del alumno"
+history -a $HOME/.bash_history
+ls -la $HOME
+ls
+history -a $HOME/.bash_history
+cp $HOME/.bash_history
+man cp
+history -a $HOME/.bash_history > Historial_Comandos_Ernesto_txt
+ls
+sudo rm Historial_Comandos_Ernesto_txt
+ls
+history -a $HOME/.bash_history > Historial_Comandos_Ernesto.txt
+ls
+cat Historial_Comandos_Ernesto.txt
+history -a $HOME/.bash_history
